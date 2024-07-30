@@ -1,6 +1,6 @@
 # React TodoList and Weather Exercises practices
 
-This is a starter codebase for a React application featuring a TodoList component and a Weather component. The TodoList allows users to manage their tasks, while the Weather component fetches and displays weather information.
+This is a source code for a React application featuring a TodoList component and a Weather component. The TodoList allows users to manage their tasks, while the Weather component fetches and displays weather information.
 
 ## Features
 
@@ -23,7 +23,6 @@ Install dependencies using npm:
 Install antd using npm:
 
     npm install antd
-
 
 # Getting Started with Create React App
 
